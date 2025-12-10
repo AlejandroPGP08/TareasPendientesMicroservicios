@@ -1,0 +1,21 @@
+[ {
+  "nombreTarea" : "Verbos pasados",
+  "fechaEntrega" : "31/10/2025",
+  "materia" : "Ingles",
+  "descripcion" : "Estudiar para el examen"
+}, {
+  "nombreTarea" : "Estudiar para el examen",
+  "fechaEntrega" : "14/11/2025",
+  "materia" : "Arqui",
+  "descripcion" : "Estudiar para el examen con los temas vistos en la clase"
+}, {
+  "nombreTarea" : "Estudiar para el examen",
+  "fechaEntrega" : "11/12/2025",
+  "materia" : "Arquitectura",
+  "descripcion" : "Estudiar Pipeline"
+}, {
+  "nombreTarea" : "Números complejos",
+  "fechaEntrega" : "31/10/2025",
+  "materia" : "Matematicas avanzadas",
+  "descripcion" : "Resolver los ejercicios de la pagina 208"
+} ]
